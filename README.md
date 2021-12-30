@@ -7,3 +7,10 @@
 | 创建型 |                                                              原型模式                                                               |
 | 创建型 |                                                              单例模式                                                               |
 | 创建型 |                                                             创建者模式                                                              |
+
+## 创建型
+
+### 生产者模式
+
+>  separate the construction of a complex object from its representation, allowing the same construction process to create various representations.
+
